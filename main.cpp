@@ -5,7 +5,7 @@
 #include "manageTrucks.h"
 #include "manageConsignments.h"
 using namespace std;
-// Author: ZAFEER AHAMAd(223CS3141)
+
 
 void showMenu(int id);
 void showRevenue();
